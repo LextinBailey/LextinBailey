@@ -42,6 +42,7 @@ Custom command-line argument parser
 
 ### 📫 Contacts
 
+- LinkedIn: [Lextin Bailey](https://www.linkedin.com/in/lextin-bailey-260b41404/)
 - Email: lextinbailey.work@gmail.com
 
 <!--
