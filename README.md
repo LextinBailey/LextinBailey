@@ -16,19 +16,19 @@
 
 ### 🚀 Projects
 
-### 🔍 HTTP Request Inspector
+### 🔍 [HTTP Request Inspector](https://github.com/LextinBailey/http-request-inspector)
 
 Full-stack app to inspect and debug HTTP requests
 - Built with React (Vite) + Node.js/Express
 - Focused on understanding request/response flow
 
-### 🌐 Mini HTTP Server (C++)
+### 🌐 [Mini HTTP Server (C++)](https://github.com/LextinBailey/mini-http-server-cpp)
 
 Built a lightweight HTTP server from scratch
 - Handles basic routing and request parsing
 - Deep dive into how web servers work
 
-### ⚙️ Mini CLI Parser (C++)
+### ⚙️ [Mini CLI Parser (C++)](https://github.com/LextinBailey/mini-cli-parser)
 
 Custom command-line argument parser
 - Supports flags and structured input
