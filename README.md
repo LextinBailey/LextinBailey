@@ -16,7 +16,7 @@
 
 ### 🚀 Projects
 
-### 🔍 [HTTP Request Inspector](https://github.com/LextinBailey/http-request-inspector)
+### 🔍 [HTTP Request Inspector (WIP)](https://github.com/LextinBailey/http-request-inspector)
 
 Full-stack app to inspect and debug HTTP requests
 - Built with React (Vite) + Node.js/Express
