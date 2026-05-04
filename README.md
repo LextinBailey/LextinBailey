@@ -55,7 +55,7 @@ Focus: parsing logic, program design, input handling
 
 ### 📫 Contact
 
-- LinkedIn: [Lextin Bailey](https://www.linkedin.com/in/lextin-bailey-260b41404/)
+- LinkedIn: [Lextin Bailey](https://www.linkedin.com/in/lextin-bailey/)
 - Email: lextinbailey.work@gmail.com
 
 <!--
