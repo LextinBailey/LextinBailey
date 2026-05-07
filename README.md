@@ -10,13 +10,25 @@ I'm particularly interested in how data flows through systems. From network requ
 
 ### 🛠️ Tech Stack
 
-- Languages: C++, JavaScript
-- Frontend: React (Vite), HTML, CSS
-- Backend: Node.js, Express
-- Database: PostgreSQL
-- Tools: Git, VS Code, Netlify, Render
+- Languages: TypeScript, JavaScript, C++, Python
+- Frontend: React, Next.js, HTML, CSS
+- Backend: Node.js, Express, REST APIs, Authentication, API Integration
+- Database: PostgreSQL, Supabase, Row-Level Security (RLS)
+- Tools: Git, GitHub, VS Code, Netlify, Render
+- Currently Learning: Scalable full-stack architecture, secure multi-user systems, backend infrastructure
 
 ### 🚀 Projects
+
+### 📈 [Trading Journal (WIP)](https://github.com/LextinBailey/trading-journal)
+Full-stack trading journal SaaS built with Next.js, TypeScript, Supabase, and PostgreSQL.
+- Implemented secure user authentication using Supabase Auth
+- Applied PostgreSQL Row-Level Security (RLS) policies for user-specific data access
+- Designed realtional database structures for storing trades and journal entries
+- Built responsive frontend interfaces with React and Next.js
+- Integrated frontend and backend systems through authenticated API-driven workflows
+- Focused on scalable architecture, maintainability, and secure multi-user application design
+
+Focus: authentication, database security, full-stack architecture, state management, user data persistence
 
 ### 🔍 [HTTP Request Inspector](https://github.com/LextinBailey/http-request-inspector)
 
