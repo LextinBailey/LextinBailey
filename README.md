@@ -2,68 +2,104 @@
 
 ### 👨‍💻 About Me
 
-Backend-focused developer with full-stack capability and a strong foundation in C++ systems programming.
+IT Support/Help Desk focused professional with a strong foundation in software development and systems programming.
 
-I've built low-level projects including a custom HTTP server and CLI parser, and I'm now applying that systems-level understanding to modern web applications using Node.js, Express, and React.
+I have hands-on experience building full-stack and low-level systems, including custom HTTP servers and CLI tools in C++. This has given me a strong understanding of how applications communicate over networks, how requests are processed, and how backend systems behave under the hood.
 
-I'm particularly interested in how data flows through systems. From network requests to backend processing to frontend rendering. I focus on building projects that reflect real-world architecture and behavior.
+I'm now shifting my focus toward IT support and Infrastructure roles, where I can apply my technical background to troubleshooting, system administration, and user support environments.
 
-### 🛠️ Tech Stack
+I enjoy understanding how systems break, how data flows between services, and how to diagnose issues across both software and network layers.
 
-- Languages: TypeScript, JavaScript, C++, Python
-- Frontend: React, Next.js, HTML, CSS
-- Backend: Node.js, Express, REST APIs, Authentication, API Integration
-- Database: PostgreSQL, Supabase, Row-Level Security (RLS)
-- Tools: Git, GitHub, VS Code, Netlify, Render
-- Currently Learning: Scalable full-stack architecture, secure multi-user systems, backend infrastructure
+### 🛠️ Technical Skills
+
+#### Operating Systems & Concepts
+
+- Windows troubleshooting and fundamentals
+- Linux command-line basics (cd, ls, mkdir, tree, directory navigation)
+- Basic system administration concepts
+- Networking fundamentals (HTTP, TCP/IP, DNS)
+
+#### Development & Scripting
+
+- TypeScript, JavaScript, C++, Python
+- Basic API development and debugging
+- CLI tooling and scripting
+
+#### Web & Systems
+
+- REST APIs
+- Authentication systems (Supabase Auth)
+- Client-server architecture
+- HTTP request/response lifecycle
+
+#### Databases
+
+- PostgreSQL
+- Basic data modeling
+- Row-Level Security (RLS)
+
+#### Tools
+
+- Git/GitHub
+- VS Code
+- Supabase
+- Vercel/Render/Netlify
 
 ### 🚀 Projects
 
-### 📈 [Trading Journal (WIP)](https://github.com/LextinBailey/trading-journal)
-Full-stack trading journal SaaS built with Next.js, TypeScript, Supabase, and PostgreSQL.
-- Implemented secure user authentication using Supabase Auth
-- Applied PostgreSQL Row-Level Security (RLS) policies for user-specific data access
-- Designed realtional database structures for storing trades and journal entries
-- Built responsive frontend interfaces with React and Next.js
-- Integrated frontend and backend systems through authenticated API-driven workflows
-- Focused on scalable architecture, maintainability, and secure multi-user application design
+### 📈 [Trading Journal (Full-Stack SaaS Project](https://github.com/LextinBailey/trading-journal)
 
-Focus: authentication, database security, full-stack architecture, state management, user data persistence
+A full-stack web application for tracking and analyzing trading performance.
+- Built secure authentication system using Supabase Auth
+- Implemented role-based data isolation using PostgreSQL Row-Level Security (RLS)
+- Designed and managed relational database structures for user-specific data
+- Developed CRUD workflows for trade management (create, read, update, delete)
+- Built server/client architecture using Next.js App Router
+- Integrated analytics for performance tracking (win rate, PNL, cumulative PNL)
+- Deployed full application using Vercel and Supabase
 
-### 🔍 [HTTP Request Inspector](https://github.com/LextinBailey/http-request-inspector)
+Focus: systems thinking, authentication, data flow, full-stack architecture, debugging multi-layer applications
 
-Full-stack HTTP request inspection tool inspired by Postman, built with React, Node.js, and PostgreSQL.
-- Construct and send HTTP requests (GET, POST) with custom headers and body
-- Inspect structured responses (status, headers, body, response time)
-- Persistent request history stored in PostgreSQL
-- Backend proxy executes external API calls and normalizes responses
-- Deployed with Netlify (frontend) and Render (backend)
+### 🔍 [HTTP Request Inspector (Full-Stack Tool)](https://github.com/LextinBailey/http-request-inspector)
 
-Focus: request lifecycle, API design, client-server interaction, data persistence
+A developer tool for understanding HTTP request lifecycles and API behavior.
+- Built request builder supporting GET/POST with headers and body
+- Created backend proxy to execute and inspect external API calls
+- Implemented response logging (status, headers, response time, body)
+- Persisted request history using PostgreSQL
+- Demonstrates client-server communication and API debugging workflows
+
+Focus: network request lifecycle, API troubleshooting, backend debugging, data persistence
 
 ### 🌐 [Mini HTTP Server (C++)](https://github.com/LextinBailey/mini-http-server-cpp)
 
-Custom HTTP server built from scratch using low-level sockets in C++.
-- Handles raw TCP connections and parses HTTP requests
+Low-level HTTP server built from scratch using sockets in C++.
+- Handles raw TCP connections
+- Parses HTTP requests manually
 - Implements basic routing and response handling
-- Designed to understand how web servers process requests at a low level
-
-Focus: networking, request parsing, server architecture
+- Demonstrates how web servers process requests at a low level
+  
+Focus: networking fundamentals, request handling, system internals
 
 ### ⚙️ [Mini CLI Parser (C++)](https://github.com/LextinBailey/mini-cli-parser)
 
-Custom command-line parsing library built in C++.
-- Supports flags and structured arguments
-- Handles input parsing and validation
-- Designed to explore low-level program input handling
-
-Focus: parsing logic, program design, input handling
+Custom command-line argument parser built in C++.
+- Parses structured CLI input
+- Handles flags and validation
+- Designed to understand program input processing
+  
+Focus: parsing logic, system input handling, low-level programming
 
 ### 📈 Current Focus
 
-- Building backend-heavy applications with real-world data flow
-- Strengthening API design, data modeling, and system architecture
-- Expanding into authentication, multi-user systems, and scaleable backend patterns
+- Transitioning into IT Support / Help Desk roles
+- Strengthening troubleshooting and systems knowledge
+- Learning networking, system administration, and infrastructure basics
+- Applying development experience to real-world IT environments
+
+### 🌐 Blog/Homelab
+
+- Homelab documentation: https://lextinslabnotes.hashnode.dev
 
 ### 📫 Contact
 
