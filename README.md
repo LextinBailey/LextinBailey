@@ -47,7 +47,7 @@ I enjoy understanding how systems break, how data flows between services, and ho
 
 ### 🚀 Projects
 
-### 📈 [Trading Journal (Full-Stack SaaS Project](https://github.com/LextinBailey/trading-journal)
+### 📈 [Trading Journal (Full-Stack SaaS Project)](https://github.com/LextinBailey/trading-journal)
 
 A full-stack web application for tracking and analyzing trading performance.
 - Built secure authentication system using Supabase Auth
