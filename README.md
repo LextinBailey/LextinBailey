@@ -102,10 +102,6 @@ Focus: parsing logic, system input handling, low-level programming
 - Learning networking, system administration, and infrastructure basics
 - Applying development experience to real-world IT environments
 
-### 🌐 Blog/Homelab
-
-- Homelab documentation: https://lextinslabnotes.hashnode.dev
-
 ### 📫 Contact
 
 - LinkedIn: [Lextin Bailey](https://www.linkedin.com/in/lextin-bailey/)
