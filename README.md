@@ -2,13 +2,18 @@
 
 ### 👨‍💻 About Me
 
-IT Support/Help Desk focused professional with a strong foundation in software development and systems programming.
+Building a foundation in IT infrastructure, networking, systems administration, and technical support through hands-on projects and continuous learning.
 
-I have hands-on experience building full-stack and low-level systems, including custom HTTP servers and CLI tools in C++. This has given me a strong understanding of how applications communicate over networks, how requests are processed, and how backend systems behave under the hood.
+My background includes software development and low-level systems programming, with experience building full-stack applications, custom HTTP servers, and CLI tools in C++. These projects strengthened my understanding of networking fundamentals, backend systems, operating systems, and how applications communicate across infrastructure layers.
 
-I'm now shifting my focus toward IT support and Infrastructure roles, where I can apply my technical background to troubleshooting, system administration, and user support environments.
-
-I enjoy understanding how systems break, how data flows between services, and how to diagnose issues across both software and network layers.
+Currently focused on developing practical skills in:
+- Networking & troubleshooting
+- Linux systems
+- Scripting & automation
+- Virtualization
+- Enterprise IT technologies
+  
+I enjoy diagnosing technical issues, understanding how systems behave under the hood, and solving problems across both software and infrastructure environments.
 
 ### 🛠️ Technical Skills
 
