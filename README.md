@@ -97,10 +97,10 @@ Focus: parsing logic, system input handling, low-level programming
 
 ### 📈 Current Focus
 
-- Transitioning into IT Support / Help Desk roles
-- Strengthening troubleshooting and systems knowledge
-- Learning networking, system administration, and infrastructure basics
-- Applying development experience to real-world IT environments
+- Building practical skills in networking, systems administration, and IT infrastructure
+- Strengthening troubleshooting, operating systems, and technical support knowledge
+- Developing hands-on experience with Linux, virtualization, scripting, and automation
+- Expanding understanding of enterprise systems, networking, and infrastructure technologies
 
 ### 📫 Contact
 
