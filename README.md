@@ -2,105 +2,142 @@
 
 ### 👨‍💻 About Me
 
-Building a foundation in IT infrastructure, networking, systems administration, and technical support through hands-on projects and continuous learning.
+I'm currently focused on building a foundation in IT infrastructure, networking, Linux systems, scripting, and technical support through hands-on projects and continuous learning.
 
-My background includes software development and low-level systems programming, with experience building full-stack applications, custom HTTP servers, and CLI tools in C++. These projects strengthened my understanding of networking fundamentals, backend systems, operating systems, and how applications communicate across infrastructure layers.
+My background includes software development and low-level systems programming, where I built full-stack applications, custom HTTP servers, and CLI tools in C++. These projects helped me develop a strong understanding of networking fundamentals, backend systems, operating systems, and how applications communicate across infrastructure layers.
 
-Currently focused on developing practical skills in:
+I'm currently enrolled in an Infrastructure & Computing Technology diploma program and actively expanding my skills in:
 - Networking & troubleshooting
-- Linux systems
+- Linux systems administration
 - Scripting & automation
 - Virtualization
+- Infrastructure documentation
 - Enterprise IT technologies
-  
-I enjoy diagnosing technical issues, understanding how systems behave under the hood, and solving problems across both software and infrastructure environments.
 
-### 🛠️ Technical Skills
+I enjoy understanding how systems work under the hood, troubleshooting technical issues, and building practical tools that improve workflows and automation.
 
-#### Operating Systems & Concepts
+## 🛠️ Technical Skills
 
-- Windows troubleshooting and fundamentals
-- Linux command-line basics (cd, ls, mkdir, tree, directory navigation)
-- Basic system administration concepts
-- Networking fundamentals (HTTP, TCP/IP, DNS)
+### Operating Systems & Infrastructure
 
-#### Development & Scripting
+- Windows troubleshooting & system fundamentals
+- Linux command-line fundamentals
+- Basic systems administration concepts
+- Networking fundamentals (TCP/IP, DNS, DHCP, HTTP)
 
-- TypeScript, JavaScript, C++, Python
-- Basic API development and debugging
-- CLI tooling and scripting
+### Scripting & Programming
 
-#### Web & Systems
+- Bash scripting
+- Python
+- C++
+- TypeScript / JavaScript
 
-- REST APIs
-- Authentication systems (Supabase Auth)
-- Client-server architecture
+### Networking & Systems
+
 - HTTP request/response lifecycle
+- Client-server architecture
+- REST APIs
+- Basic infrastructure documentation
+- Basic troubleshooting workflows
 
-#### Databases
+### Databases & Backend
 
 - PostgreSQL
-- Basic data modeling
+- Database fundamentals
 - Row-Level Security (RLS)
+- Authentication systems (Supabase Auth)
 
-#### Tools
+### Tools
 
-- Git/GitHub
+- Git & GitHub
 - VS Code
 - Supabase
-- Vercel/Render/Netlify
+- Vercel / Render / Netlify
 
-### 🚀 Projects
+# 🚀 Projects
 
-### 📈 [Trading Journal (Full-Stack SaaS Project)](https://github.com/LextinBailey/trading-journal)
+## 🏠 [Home Network Docs](https://github.com/LextinBailey/home-network-docs)
 
-A full-stack web application for tracking and analyzing trading performance.
-- Built secure authentication system using Supabase Auth
-- Implemented role-based data isolation using PostgreSQL Row-Level Security (RLS)
-- Designed and managed relational database structures for user-specific data
-- Developed CRUD workflows for trade management (create, read, update, delete)
-- Built server/client architecture using Next.js App Router
-- Integrated analytics for performance tracking (win rate, PNL, cumulative PNL)
-- Deployed full application using Vercel and Supabase
+Documentation project focused on understanding and mapping a home network environment.
+- Created a network topology diagram from ISP connection to connected devices
+- Documented DHCP, DNS, and router configuration details
+- Organized device inventory with IP addresses and connection types
+- Practiced infrastructure documentation and network analysis workflows
 
-Focus: systems thinking, authentication, data flow, full-stack architecture, debugging multi-layer applications
+Focus: networking fundamentals, infrastructure documentation, system organization
 
-### 🔍 [HTTP Request Inspector (Full-Stack Tool)](https://github.com/LextinBailey/http-request-inspector)
+## 📜 [Bash Scripts](https://github.com/LextinBailey/bash-scripts)
 
-A developer tool for understanding HTTP request lifecycles and API behavior.
-- Built request builder supporting GET/POST with headers and body
-- Created backend proxy to execute and inspect external API calls
-- Implemented response logging (status, headers, response time, body)
-- Persisted request history using PostgreSQL
-- Demonstrates client-server communication and API debugging workflows
+Collection of beginner Bash scripting projects focused on Linux fundamentals and automation.
+- Folder structure automation
+- Directory backup scripting
+- Service monitoring
+- Process/file handling
+- User input validation
 
-Focus: network request lifecycle, API troubleshooting, backend debugging, data persistence
+Focus: Linux fundamentals, scripting logic, automation, command-line workflows
 
-### 🌐 [Mini HTTP Server (C++)](https://github.com/LextinBailey/mini-http-server-cpp)
+## 🐍 [Python Networking Tools](https://github.com/LextinBailey/python-networking-tools)
+
+Python scripting repository focused on learning automation, utilities, and networking-related tooling.
+- Password generator
+- CSV reader
+- Temperature converter
+- Tip calculator
+- Expanding into networking-focused tools and automation scripts
+
+Planned projects:
+- SSH remote executor
+- Network inventory scanner
+- Port scanner
+- Automation utilities
+
+Focus: Python fundamentals, scripting, automation, networking tools
+
+## 🌐 [Mini HTTP Server (C++)](https://github.com/LextinBailey/mini-http-server-cpp)
 
 Low-level HTTP server built from scratch using sockets in C++.
 - Handles raw TCP connections
 - Parses HTTP requests manually
 - Implements basic routing and response handling
-- Demonstrates how web servers process requests at a low level
-  
+
 Focus: networking fundamentals, request handling, system internals
 
-### ⚙️ [Mini CLI Parser (C++)](https://github.com/LextinBailey/mini-cli-parser)
+## 🔍 [HTTP Request Inspector (Full-Stack Tool)](https://github.com/LextinBailey/http-request-inspector)
+
+Developer tool for understanding HTTP request lifecycles and API behavior.
+- Built request builder supporting GET/POST requests
+- Created backend proxy for external API calls
+- Implemented response logging and request history storage
+
+Focus: API debugging, client-server communication, request lifecycle analysis
+
+## ⚙️ [Mini CLI Parser (C++)](https://github.com/LextinBailey/mini-cli-parser)
 
 Custom command-line argument parser built in C++.
 - Parses structured CLI input
 - Handles flags and validation
-- Designed to understand program input processing
-  
-Focus: parsing logic, system input handling, low-level programming
+- Explores low-level input processing concepts
 
-### 📈 Current Focus
+Focus: parsing logic, systems programming, CLI tooling
 
-- Building practical skills in networking, systems administration, and IT infrastructure
-- Strengthening troubleshooting, operating systems, and technical support knowledge
-- Developing hands-on experience with Linux, virtualization, scripting, and automation
-- Expanding understanding of enterprise systems, networking, and infrastructure technologies
+## 📈 [Trading Journal (Full-Stack SaaS Project)](https://github.com/LextinBailey/trading-journal)
+
+Full-stack trading journal application for tracking and analyzing trading performance.
+- Built authentication system using Supabase Auth
+- Implemented PostgreSQL Row-Level Security (RLS)
+- Developed CRUD workflows and analytics dashboards
+- Deployed using Vercel and Supabase
+
+Focus: full-stack architecture, authentication, database systems, debugging
+
+## 💡 Current Focus
+
+- Strengthening networking and troubleshooting skills
+- Building hands-on Linux and scripting experience
+- Learning virtualization and infrastructure technologies
+- Developing automation-focused projects
+- Expanding practical IT and systems administration knowledge
 
 ### 📫 Contact
 
